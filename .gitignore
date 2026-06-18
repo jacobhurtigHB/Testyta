@@ -1,0 +1,25 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit and logs
+.streamlit/
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Local data artifacts
+*.wav
+*.waw
+*.mp3
+*.ogg
+*.m4a
